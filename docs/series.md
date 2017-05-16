@@ -1,8 +1,9 @@
 #Séries
 
-#Séries de Danilo
+#Séries de João
 
-*The Walking Dead 1
-*The Walking Dead 2
-*The Walking Dead 3
-*The Walking Dead 4
+*O Professor aloprado
+*MR ROBOT
+*Death Note
+*Devil May Cry
+*Prision Break
