@@ -1,8 +1,9 @@
 #Games da Equipe
 
-#Games Danilo
+#Games João
 
-*Uncharted 1
-*Uncharted 2
-*Uncharted 3
-*Uncharted 4
+*Resident evil
+*need for speed
+*Medal of honor
+*Counter Strike
+*Gta 
