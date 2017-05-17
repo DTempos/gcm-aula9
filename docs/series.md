@@ -1,8 +1,9 @@
 #Séries
 
-#Séries de Danilo
+#Séries de Daniel
 
-*The Walking Dead 1
-*The Walking Dead 2
-*The Walking Dead 3
-*The Walking Dead 4
+*Goatse 1
+*Goatse 2
+*Goatse 3
+*Goatse 4
+
