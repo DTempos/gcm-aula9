@@ -8,6 +8,7 @@
 *The Walking Dead 3
 *The Walking Dead 4
 
+
 #Séries Mateus Santis
 
 *The walking Dead 5
@@ -30,3 +31,12 @@
 *Death Note
 *Devil May Cry
 *Prision Break
+
+
+#series Flavia
+
+*The Walking Dead
+*Prison break
+*Breaking Bad
+*The OA
+
