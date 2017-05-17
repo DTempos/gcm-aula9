@@ -1,8 +1,8 @@
 #Games da Equipe
 
-#Games Danilo
+#Games Daniel
 
-*Uncharted 1
-*Uncharted 2
-*Uncharted 3
-*Uncharted 4
+*SexyVilla 1
+*SexyVilla 2
+*SexyVilla 3
+*SexyVilla 4
