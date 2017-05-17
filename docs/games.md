@@ -1,7 +1,7 @@
 #Games da Equipe
 
 
-#Games Danilo Bixona
+#Games Danilo 
 
 *Batman 1
 *Batman 2
@@ -32,3 +32,10 @@
 *Counter Strike
 *Gta 
 
+
+#games Flavia
+
+*donkey kong
+*super mario bros
+*pac man
+*Zelda
